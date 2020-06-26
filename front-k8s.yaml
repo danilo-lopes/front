@@ -76,7 +76,7 @@ spec:
       kubernetes.io/ingress.class: nginx
   spec:
     rules:
-    - host: www.front.com
+    - host: front.biqueirabr.com.br
       http:
         paths:
           - path: /
